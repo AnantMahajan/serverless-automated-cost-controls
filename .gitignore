@@ -1,0 +1,16 @@
+# Compiled Java class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Virtual environment
+*.pyc
+__pycache__/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
